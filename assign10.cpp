@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "       1\n";
+    cout << "     1 2 3\n";
+    cout << "   1 2 3 4 5\n";
+    cout << " 1 2 3 4 5 6 7\n";
+
+    return 0;
+}
